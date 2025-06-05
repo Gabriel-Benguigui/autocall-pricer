@@ -13,3 +13,8 @@ python3 autocall_pricer.py
 ##  Tester via Google Colab
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gabriel-Benguigui/autocall-pricer/blob/main/autocall_pricer.ipynb)
+
+## Auteur
+
+Gabriel Benguigui  
+Master Financial Markets & Risk Evaluation — TSM
